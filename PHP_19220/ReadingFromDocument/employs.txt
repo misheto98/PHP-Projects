@@ -1,0 +1,3 @@
+firstName:Ivan lastname:Ivanov Location:Soifa Age:20 Department:IT Salary:2000
+firstName:Pesho lastname:Petrov Location:Pleve Age:33 Department:IT Salary:3000
+firstName:Gosho lastname:Stamatov Location:Soifa Age:20 Department:IT Salary:2000

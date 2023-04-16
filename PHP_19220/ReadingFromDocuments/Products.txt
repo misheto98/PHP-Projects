@@ -1,0 +1,8 @@
+name:coffee price:1.59lv quantity:4
+name:milk price:2.59lv quantity:2
+name:sugar price:3.59lv quantity:5
+name:juice price:5.59lv quantity:5
+name:eggs price:4.59lv quantity:3
+name:cola price:10lv quantity:50
+name:pepsi price:10lv quantity:10
+name:pepsi2 price:10lv quantity:10
