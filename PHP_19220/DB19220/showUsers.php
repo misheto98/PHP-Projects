@@ -39,8 +39,6 @@ try {
 <body>
   <?php include("menu.php") ;?>
 
-
-
   <!-- <form action="addInDb.php" method="post">
     <label for="name">Username:</label>
     <input type="text" name="username" id="name"><br><br>

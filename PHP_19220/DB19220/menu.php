@@ -6,7 +6,7 @@
                     <?php
 if ( isset( $_SESSION['user'] ) ) {
 ?>
-                    <a href="profile.php" style="font-family: Verdana, Geneva, Tahoma, sans-serif;"><?= $_SESSION['user']['username'] ?></a>
+                    <!-- <a href="profile.php" style="font-family: Verdana, Geneva, Tahoma, sans-serif;"><?= $_SESSION['user']['username'] ?></a> -->
 <?php
 } else {
 ?>
